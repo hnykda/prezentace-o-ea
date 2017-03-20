@@ -18,8 +18,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/reveal/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="738">
-              <caret line="212" column="20" lean-forward="false" selection-start-line="212" selection-start-column="20" selection-end-line="212" selection-end-column="20" />
+            <state relative-caret-position="-504">
+              <caret line="52" column="100" lean-forward="true" selection-start-line="52" selection-start-column="100" selection-end-line="52" selection-end-column="100" />
               <folding />
             </state>
           </provider>
@@ -54,6 +54,7 @@
     <handled-path value="$PROJECT_DIR$/reveal/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="1366" />
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
@@ -156,7 +157,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <frame x="1366" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.804401" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -212,8 +213,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/reveal/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="738">
-          <caret line="212" column="20" lean-forward="false" selection-start-line="212" selection-start-column="20" selection-end-line="212" selection-end-column="20" />
+        <state relative-caret-position="-504">
+          <caret line="52" column="100" lean-forward="true" selection-start-line="52" selection-start-column="100" selection-end-line="52" selection-end-column="100" />
           <folding />
         </state>
       </provider>
